@@ -1,5 +1,4 @@
-
-
+![ezgif com-video-to-gif (4)](https://github.com/bahattinzengin/arabluetur/assets/140658226/87d84eb9-2a5d-4386-9e9d-db094d4b46b8)
 html ,scss ,js kullanıldı
 ## Özellikler
 - html
