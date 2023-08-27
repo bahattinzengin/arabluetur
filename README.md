@@ -7,7 +7,7 @@ html ,scss ,js kullanıldı
 ## Gereksinimler
 responsive tasarım uygulandı
 ## Kurulum
-1. Repoyu klonlayın: `git clonehttps://github.com/bahattinzengin/github-clone`
+1. Repoyu klonlayın: `git clonehttps https://github.com/bahattinzengin/arabluetur`
 2. Proje klasörüne gidin: `github-clone`
 3. index.html dosyasını tarayıcınızda açın
 
